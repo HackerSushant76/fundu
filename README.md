@@ -17,6 +17,7 @@
          <img src="https://img.shields.io/badge/Node.js-70a760?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="nodejs" />
          <img src="https://img.shields.io/badge/Chakra%20UI-27bdb1?style=for-the-badge&logo=chakraui&logoColor=white" alt="chakra-ui" />
 </p>
+
 - `React`
 - `Auth0`for google authentication
 - `Chakra UI` for styling , will learn material UI
