@@ -27,7 +27,7 @@ This is a website where user can post and comment on each other's post, you have
 
 - `React`
 - `Auth0`for google authentication
-- `Chakra UI` for styling , will learn material UI
+- `Chakra UI` for styling , will learn `material UI`
 - `mongodb` for database and is availabe remotely
 - `express` for creating api
 - `node` environment
