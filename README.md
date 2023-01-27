@@ -3,7 +3,7 @@
 ## Deployed backend: - https://fundu-api.onrender.com
 
 ## Description
-This is a website where user can can post and comment on each other's post, you have to login or signup to use this website , you can either signup through your google account or through username and password.
+This is a website where user can post and comment on each other's post, you have to login or signup to use this website , you can either signup through your google account or through username and password.
 
 ## Api end points
 - **/** => welcome
@@ -12,7 +12,7 @@ This is a website where user can can post and comment on each other's post, you 
 - **/getcomments** => get all the comments
 - **/addcomment** => to post a comment
 
-## queries for pagination , sorting and fitering
+## Queries for pagination , sorting and filtering
  - use `page` for pagination. `page` should be greater than 1
  - use `sort` for sorting. It recives `asc` and `desc` for ascending and descending order by user's name.
 
