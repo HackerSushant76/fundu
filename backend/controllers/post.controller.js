@@ -7,7 +7,7 @@ const addPostControl = async(req,res)=>{
     res.send("success");
 }
 const getPostControl = async (req,res)=>{
-    console.log(req.query)
+    // console.log(req.query)
     const {page,sort,filter} = req.query
     const limit = 20
     if(filter!==undefined){
