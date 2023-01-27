@@ -10,6 +10,13 @@
 - **/addcomment** => to post a comment
 
 ## Tech Stack
+<p>
+         <img src="https://img.shields.io/badge/MongoDB-14aa53?style=for-the-badge&logo=mongodb&logoColor=white" alt="mongodb"/>
+         <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" alt="expressjs"/>
+         <img src="https://img.shields.io/badge/React-282c34?style=for-the-badge&logo=react&logoColor=61DAFB" alt="reactjs" />
+         <img src="https://img.shields.io/badge/Node.js-70a760?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="nodejs" />
+         <img src="https://img.shields.io/badge/Chakra%20UI-27bdb1?style=for-the-badge&logo=chakraui&logoColor=white" alt="chakra-ui" />
+</p>
 - `React`
 - `Auth0`for google authentication
 - `Chakra UI` for styling , will learn material UI
