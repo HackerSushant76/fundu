@@ -16,7 +16,7 @@ const PostCard = ({ _id, name, picture, title, desc }) => {
         <Text>{desc}</Text>
       </div>
       <div>
-        <Button onClick={() => setShowComments(showComments ? false : true)}>
+        <Button onClick={() => setShowComments(showComments ? false : true)} colorScheme="teal" m="20px">
           {showComments ? "Hide Comments" : "Show Comments"}
         </Button>
       </div>
